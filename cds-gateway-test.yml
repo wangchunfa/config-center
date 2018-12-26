@@ -1,6 +1,7 @@
 
 server:
   port: 10000
+  description: name1
 
 
 product-service:
