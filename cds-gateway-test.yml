@@ -33,7 +33,3 @@ zuul:
 ribbon:
   eureka:
     enabled: false
-
-key_a:
-  key1: 11111
-  key2: 22222
