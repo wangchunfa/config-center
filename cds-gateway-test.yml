@@ -6,7 +6,7 @@ server:
 
 product-service:
   ribbon:
-    listOfServers: 127.0.0.1:8771, 127.0.0.1:8772, 127.0.0.1:8773, 127.0.0.1:8774, 127.0.0.1:8775, 127.0.0.1:8776, 127.0.0.1:8777, 127.0.0.1:8778
+    listOfServers: 127.0.0.1:87733
     #NFLoadBalancerRuleClassName: com.netflix.loadbalancer.BestAvailableRule
     ReadTimeout: 5000
     ConnectTimeout: 2000
