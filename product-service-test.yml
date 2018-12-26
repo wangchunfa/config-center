@@ -12,3 +12,7 @@ eureka:
 spring:
   application:
     name: product-service
+
+
+env: test
+branch: master
